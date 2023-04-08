@@ -16,5 +16,5 @@ Terdapat 2 Variable
 | Water | 6<=wind<=8 |Siaga |
 | Water | > 8 |Bahaya |
 
-+Result
-  +![image](/images/result.PNG)
++ Result
+![image](/images/result.PNG)
