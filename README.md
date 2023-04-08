@@ -17,4 +17,5 @@ Terdapat 2 Variable
 | Water | > 8 |Bahaya |
 
 + Result
-+ ![image](/images/result.PNG)
+
+![image](/images/result.PNG)
